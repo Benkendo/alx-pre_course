@@ -1,2 +1,4 @@
-git fetch
-git remote update
+git pull
+git add .
+git commit
+git push
